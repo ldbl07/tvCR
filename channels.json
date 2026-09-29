@@ -1,6 +1,20 @@
 {
   "channels": [
     {
+      "number": 4,
+      "name": "Repretel Canal 4",
+      "category": "Nacionales",
+      "logo": "",
+      "url": "http://181.119.210.234:4000/play/a04b/index.m3u8"
+    },
+    {
+      "number": 5,
+      "name": "Teleuno",
+      "category": "Nacionales",
+      "logo": "",
+      "url": "http://181.119.210.234:4000/play/a06x/index.m3u8"
+    },
+    {
       "number": 6,
       "name": "Repretel Canal 6",
       "category": "Nacionales",
@@ -15,11 +29,67 @@
       "url": "http://181.119.210.234:4000/play/a02d/index.m3u8"
     },
     {
-      "number": 12,
+      "number": 9,
+      "name": "OPA",
+      "category": "Nacionales",
+      "logo": "",
+      "url": "http://181.119.210.234:4000/play/a06w/index.m3u8"
+    },
+    {
+      "number": 11,
+      "name": "Repretel Canal 11",
+      "category": "Nacionales",
+      "logo": "",
+      "url": "http://181.119.210.234:4000/play/a03b/index.m3u8"
+    },
+    {
+      "number": 13,
+      "name": "Sinart Canal 13",
+      "category": "Nacionales",
+      "logo": "",
+      "url": "http://181.119.210.234:4000/play/a00z/index.m3u8"
+    },
+    {
+      "number": 15,
+      "name": "FUTV CR",
+      "category": "Nacionales",
+      "logo": "",
+      "url": "http://181.119.210.234:4000/play/a059/index.m3u8"
+    },
+    {
+      "number": 16,
+      "name": "TD+",
+      "category": "Nacionales",
+      "logo": "",
+      "url": "http://181.119.210.234:4000/play/a00q/index.m3u8"
+    },
+    {
+      "number": 17,
+      "name": "TD+2",
+      "category": "Nacionales",
+      "logo": "",
+      "url": "http://181.119.210.234:4000/play/a00r/index.m3u8"
+    },
+    {
+      "number": 18,
       "name": "FOX CR",
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/foxcr.png",
       "url": "http://181.119.210.234:4000/play/a04u/index.m3u8"
+    },
+    {
+      "number": 36,
+      "name": "TRIVISION",
+      "category": "Nacionales",
+      "logo": "",
+      "url": "http://181.119.210.234:4000/play/a078/index.m3u8"
+    },
+    {
+      "number": 42,
+      "name": "Extra TV 42",
+      "category": "Nacionales",
+      "logo": "",
+      "url": "http://181.119.210.234:4000/play/a010/index.m3u8"
     }
   ]
 }
