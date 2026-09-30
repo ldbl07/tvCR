@@ -8,6 +8,13 @@
       "url": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
     },
     {
+      "number": 3,
+      "name": "Telefides",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/fides.png",
+      "url": "https://5eac7b031d945.streamlock.net/TELEFIDES/TELEFIDES/chunklist_w2017729914.m3u8"
+    },
+    {
       "number": 4,
       "name": "Repretel Canal 4",
       "category": "Nacionales",
