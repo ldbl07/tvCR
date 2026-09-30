@@ -1,6 +1,13 @@
 {
   "channels": [
     {
+      "number": 1,
+      "name": "Canal 1",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/uno.png",
+      "url": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
+    },
+    {
       "number": 4,
       "name": "Repretel Canal 4",
       "category": "Nacionales",
@@ -116,6 +123,13 @@
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/extratv42.png",
       "url": "http://181.119.210.234:4000/play/a010/index.m3u8"
+    }
+    {
+      "number": 43,
+      "name": "Guatuso TV",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/guatuso.png",
+      "url": "https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8"
     }
   ]
 }
