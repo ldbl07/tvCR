@@ -4,6 +4,7 @@
       "number": 1,
       "name": "Canal 1",
       "category": "Nacionales",
+      "epgId": "",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/uno.png",
       "url": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8"
     },
@@ -11,6 +12,7 @@
       "number": 3,
       "name": "Telefides",
       "category": "Nacionales",
+      "epgId": "",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/fides.png",
       "url": "https://5eac7b031d945.streamlock.net/TELEFIDES/TELEFIDES/chunklist_w2017729914.m3u8"
     },
@@ -18,6 +20,7 @@
       "number": 4,
       "name": "Repretel Canal 4",
       "category": "Nacionales",
+      "epgId": "Canal4.cr",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/Repretel4.png",
       "url": "http://181.119.210.234:4000/play/a04b/index.m3u8"
     },
@@ -25,6 +28,7 @@
       "number": 5,
       "name": "Teleuno",
       "category": "Nacionales",
+      "epgId": "",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/teleuno.png",
       "url": "http://181.119.210.234:4000/play/a06x/index.m3u8"
     },
@@ -32,6 +36,7 @@
       "number": 6,
       "name": "Repretel Canal 6",
       "category": "Nacionales",
+      "epgId": "Canal6.cr",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/repretel6.png",
       "url": "http://181.119.210.234:4000/play/a03a/index.m3u8"
     },
@@ -39,6 +44,7 @@
       "number": 7,
       "name": "Teletica Canal 7",
       "category": "Nacionales",
+      "epgId": "",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/teletica7.png",
       "url": "http://181.119.210.234:4000/play/a02d/index.m3u8"
     },
@@ -46,23 +52,23 @@
       "number": 8,
       "name": "Multimedios",
       "category": "Nacionales",
+      "epgId": "Canal8.cr",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/canal8.png",
       "url": "http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8"
     },
-    
     {
       "number": 9,
       "name": "OPA",
       "category": "Nacionales",
+      "epgId": "",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/opa.png",
       "url": "http://181.119.210.234:4000/play/a06w/index.m3u8"
     },
-
-    
     {
       "number": 11,
       "name": "Repretel Canal 11",
       "category": "Nacionales",
+      "epgId": "Canal11.cr",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/Repretel11.png",
       "url": "http://181.119.210.234:4000/play/a03b/index.m3u8"
     },
@@ -70,15 +76,15 @@
       "number": 13,
       "name": "Sinart Canal 13",
       "category": "Nacionales",
+      "epgId": "Canal13.cr",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/canal13.png",
       "url": "http://181.119.210.234:4000/play/a00z/index.m3u8"
     },
-
-    
     {
       "number": 15,
       "name": "FUTV CR",
       "category": "Nacionales",
+      "epgId": "FUTV.cr",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/futv.png",
       "url": "http://181.119.210.234:4000/play/a059/index.m3u8"
     },
@@ -86,6 +92,7 @@
       "number": 16,
       "name": "TD+",
       "category": "Nacionales",
+      "epgId": "",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/td+.png",
       "url": "http://181.119.210.234:4000/play/a00q/index.m3u8"
     },
@@ -93,6 +100,7 @@
       "number": 17,
       "name": "TD+2",
       "category": "Nacionales",
+      "epgId": "",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/td+2.png",
       "url": "http://181.119.210.234:4000/play/a00r/index.m3u8"
     },
@@ -100,55 +108,15 @@
       "number": 18,
       "name": "FOX CR",
       "category": "Nacionales",
+      "epgId": "TigoSport.cr",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/foxcr.png",
       "url": "http://181.119.210.234:4000/play/a04u/index.m3u8"
-    },
-    {
-      "number": 19,
-      "name": "ESPN",
-      "category": "Deportes",
-      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn.png",
-      "url": "http://181.119.210.234:4000/play/a04m/index.m3u8"
-    },
-    {
-      "number": 20,
-      "name": "ESPN 2",
-      "category": "Deportes",
-      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn2.png",
-      "url": "http://181.119.210.234:4000/play/a04n/index.m3u8"
-    },
-    {
-      "number": 21,
-      "name": "ESPN 3",
-      "category": "Deportes",
-      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn3.png",
-      "url": "http://181.119.210.234:4000/play/a03m/index.m3u8"
-    },
-    {
-      "number": 22,
-      "name": "ESPN 4",
-      "category": "Deportes",
-      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn4.png",
-      "url": "http://181.119.210.234:4000/play/a03n/index.m3u8"
-    },
-    {
-      "number": 23,
-      "name": "ESPN 5",
-      "category": "Deportes",
-      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn5.png",
-      "url": "http://181.119.210.234:4000/play/a05r/index.m3u8"
-    },
-    {
-      "number": 24,
-      "name": "ESPN 6",
-      "category": "Deportes",
-      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn6.png",
-      "url": "http://181.119.210.234:4000/play/a01z/index.m3u8"
     },
     {
       "number": 30,
       "name": "IQ Channel",
       "category": "Nacionales",
+      "epgId": "",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/iq.png",
       "url": "http://rtmp.info:8081/iqtv/envivo/playlist.m3u8"
     },
@@ -156,6 +124,7 @@
       "number": 31,
       "name": "VM Latino",
       "category": "Nacionales",
+      "epgId": "",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/vm.png",
       "url": "http://k4.usastreams.com/vmtv/vmlatino/playlist.m3u8"
     },
@@ -163,6 +132,7 @@
       "number": 36,
       "name": "TRIVISION",
       "category": "Nacionales",
+      "epgId": "",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/Trivision36.png",
       "url": "http://181.119.210.234:4000/play/a078/index.m3u8"
     },
@@ -170,6 +140,7 @@
       "number": 42,
       "name": "Extra TV 42",
       "category": "Nacionales",
+      "epgId": "",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/extratv42.png",
       "url": "http://181.119.210.234:4000/play/a010/index.m3u8"
     },
@@ -177,6 +148,7 @@
       "number": 43,
       "name": "Guatuso TV",
       "category": "Nacionales",
+      "epgId": "",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/guatuso.png",
       "url": "https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8"
     }
