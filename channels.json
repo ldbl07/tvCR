@@ -5,7 +5,7 @@
       "name": "Canal 1",
       "url": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8",
       "category": "Nacionales",
-      "logo": "uno.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/uno.png",
       "epgId": "",
       "epgSource": ""
     },
@@ -14,7 +14,7 @@
       "name": "Telefides",
       "url": "https://5eac7b031d945.streamlock.net/TELEFIDES/TELEFIDES/chunklist_w2017729914.m3u8",
       "category": "Nacionales",
-      "logo": "fides.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/fides.png",
       "epgId": "",
       "epgSource": ""
     },
@@ -23,7 +23,7 @@
       "name": "Repretel Canal 4",
       "url": "http://181.119.210.234:4000/play/a04b/index.m3u8",
       "category": "Nacionales",
-      "logo": "Repretel4.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/Repretel4.png",
       "epgId": "Canal4.cr",
       "epgSource": "iptv"
     },
@@ -32,7 +32,7 @@
       "name": "Teleuno",
       "url": "http://181.119.210.234:4000/play/a06x/index.m3u8",
       "category": "Nacionales",
-      "logo": "teleuno.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/teleuno.png",
       "epgId": "",
       "epgSource": ""
     },
@@ -41,7 +41,7 @@
       "name": "Repretel Canal 6",
       "url": "http://181.119.210.234:4000/play/a03a/index.m3u8",
       "category": "Nacionales",
-      "logo": "repretel6.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/repretel6.png",
       "epgId": "Canal6.cr",
       "epgSource": "iptv"
     },
@@ -50,7 +50,7 @@
       "name": "Teletica Canal 7",
       "url": "http://181.119.210.234:4000/play/a02d/index.m3u8",
       "category": "Nacionales",
-      "logo": "teletica7.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/teletica7.png",
       "epgId": "Canal 7 de Costa Rica (Teletica).cr",
       "epgSource": "open"
     },
@@ -59,7 +59,7 @@
       "name": "Multimedios",
       "url": "http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8",
       "category": "Nacionales",
-      "logo": "canal8.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/canal8.png",
       "epgId": "Canal8.cr",
       "epgSource": "iptv"
     },
@@ -68,7 +68,7 @@
       "name": "OPA",
       "url": "http://181.119.210.234:4000/play/a06w/index.m3u8",
       "category": "Nacionales",
-      "logo": "opa.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/opa.png",
       "epgId": "Canal 9 de Costa Rica.cr",
       "epgSource": "open"
     },
@@ -77,7 +77,7 @@
       "name": "Repretel Canal 11",
       "url": "http://181.119.210.234:4000/play/a03b/index.m3u8",
       "category": "Nacionales",
-      "logo": "Repretel11.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/Repretel11.png",
       "epgId": "Canal11.cr",
       "epgSource": "iptv"
     },
@@ -86,7 +86,7 @@
       "name": "Sinart Canal 13",
       "url": "http://181.119.210.234:4000/play/a00z/index.m3u8",
       "category": "Nacionales",
-      "logo": "canal13.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/canal13.png",
       "epgId": "Canal13.cr",
       "epgSource": "iptv"
     },
@@ -95,7 +95,7 @@
       "name": "FUTV CR",
       "url": "http://181.119.210.234:4000/play/a059/index.m3u8",
       "category": "Deportes",
-      "logo": "futv.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/futv.png",
       "epgId": "FUTV.cr",
       "epgSource": "iptv"
     },
@@ -104,7 +104,7 @@
       "name": "TD+",
       "url": "http://181.119.210.234:4000/play/a00q/index.m3u8",
       "category": "Deportes",
-      "logo": "td+.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/td%2B.png",
       "epgId": "",
       "epgSource": ""
     },
@@ -113,7 +113,7 @@
       "name": "TD+2",
       "url": "http://181.119.210.234:4000/play/a00r/index.m3u8",
       "category": "Deportes",
-      "logo": "td+2.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/td%2B2.png",
       "epgId": "",
       "epgSource": ""
     },
@@ -122,7 +122,7 @@
       "name": "FOX CR",
       "url": "http://181.119.210.234:4000/play/a04u/index.m3u8",
       "category": "Deportes",
-      "logo": "foxcr.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/foxcr.png",
       "epgId": "TigoSport.cr",
       "epgSource": "iptv"
     },
@@ -131,7 +131,7 @@
       "name": "ESPN",
       "url": "http://181.119.210.234:4000/play/a04m/index.m3u8",
       "category": "Deportes",
-      "logo": "espn.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn.png",
       "epgId": "Canal ESPN (Costa Rica).cr",
       "epgSource": "open"
     },
@@ -140,7 +140,7 @@
       "name": "ESPN 2",
       "url": "http://181.119.210.234:4000/play/a04n/index.m3u8",
       "category": "Deportes",
-      "logo": "espn2.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn2.png",
       "epgId": "Canal ESPN 2 (Costa Rica).cr",
       "epgSource": "open"
     },
@@ -149,7 +149,7 @@
       "name": "ESPN 3",
       "url": "http://181.119.210.234:4000/play/a03m/index.m3u8",
       "category": "Deportes",
-      "logo": "espn3.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn3.png",
       "epgId": "Canal ESPN 3 (Costa Rica).cr",
       "epgSource": "open"
     },
@@ -158,7 +158,7 @@
       "name": "ESPN 4",
       "url": "http://181.119.210.234:4000/play/a03n/index.m3u8",
       "category": "Deportes",
-      "logo": "espn4.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn4.png",
       "epgId": "Canal ESPN 4 (Costa Rica).cr",
       "epgSource": "open"
     },
@@ -167,7 +167,7 @@
       "name": "ESPN 5",
       "url": "http://181.119.210.234:4000/play/a05r/index.m3u8",
       "category": "Deportes",
-      "logo": "espn5.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn5.png",
       "epgId": "",
       "epgSource": ""
     },
@@ -176,7 +176,7 @@
       "name": "ESPN 6",
       "url": "http://181.119.210.234:4000/play/a01z/index.m3u8",
       "category": "Deportes",
-      "logo": "espn6.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn6.png",
       "epgId": "",
       "epgSource": ""
     },
@@ -185,7 +185,7 @@
       "name": "IQ Channel",
       "url": "http://rtmp.info:8081/iqtv/envivo/playlist.m3u8",
       "category": "Nacionales",
-      "logo": "iq.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/iq.png",
       "epgId": "",
       "epgSource": ""
     },
@@ -194,7 +194,7 @@
       "name": "VM Latino",
       "url": "http://k4.usastreams.com/vmtv/vmlatino/playlist.m3u8",
       "category": "Nacionales",
-      "logo": "vm.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/vm.png",
       "epgId": "",
       "epgSource": ""
     },
@@ -203,7 +203,7 @@
       "name": "TRIVISION",
       "url": "http://181.119.210.234:4000/play/a078/index.m3u8",
       "category": "Nacionales",
-      "logo": "Trivision36.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/Trivision36.png",
       "epgId": "",
       "epgSource": ""
     },
@@ -212,7 +212,7 @@
       "name": "Extra TV 42",
       "url": "http://181.119.210.234:4000/play/a010/index.m3u8",
       "category": "Nacionales",
-      "logo": "extratv42.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/extratv42.png",
       "epgId": "Canal Extra TV 42 de Costa Rica.cr",
       "epgSource": "open"
     },
@@ -221,7 +221,7 @@
       "name": "Guatuso TV",
       "url": "https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8",
       "category": "Nacionales",
-      "logo": "guatuso.png",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/guatuso.png",
       "epgId": "",
       "epgSource": ""
     }
