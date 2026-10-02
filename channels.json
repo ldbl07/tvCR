@@ -10,6 +10,15 @@
       "epgSource": ""
     },
     {
+      "number": 2,
+      "name": "Canal 2 CDR",
+      "url": "https://streaming.tumm.tv/10303/notoken/hls/canal2/0_0_2048_128/spntl=id=wC6Ql2LIU2Y-BEiV6bDc3aU~hmac=6bbd776083d6cbe5c9eb5870a9458e05b1a239152f376ddcc278129ecc479e90/index_0.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/canal2_CDR.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
       "number": 3,
       "name": "Telefides",
       "url": "https://5eac7b031d945.streamlock.net/TELEFIDES/TELEFIDES/chunklist_w2017729914.m3u8",
