@@ -320,7 +320,7 @@
     {
     "number": 50,
     "name": "Discovery Channel",
-    "url": "http://181.119.210.234:4000/play/a04i/index.m3u8",
+    "url": "http://181.119.210.234:4000/play/a06e/index.m3u8",
     "category": "Documentales",
     "logo": "",
     "epgId": "",
@@ -329,7 +329,7 @@
   {
     "number": 51,
     "name": "Discovery Home & Health",
-    "url": "http://181.119.210.234:4000/play/a05n/index.m3u8",
+    "url": "http://181.119.210.234:4000/play/a04y/index.m3u8",
     "category": "Documentales",
     "logo": "",
     "epgId": "",
@@ -383,7 +383,7 @@
   {
     "number": 57,
     "name": "AXN",
-    "url": "http://181.119.210.234:4000/play/a022/index.m3u8",
+    "url": "http://181.119.210.234:4000/play/a063/index.m3u8",
     "category": "Películas y Series",
     "logo": "",
     "epgId": "",
@@ -445,7 +445,7 @@
   },
   {
     "number": 65,
-    "name": "HBO2 HD",
+    "name": "HBO 2",
     "url": "http://181.119.210.234:4000/play/a019/index.m3u8",
     "category": "Películas y Series",
     "logo": "",
