@@ -228,6 +228,15 @@
       "epgSource": ""
     },
     {
+      "number": 26,
+      "name": "Fox Deportes",
+      "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/tudn.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
       "number": 30,
       "name": "IQ Channel",
       "url": "http://rtmp.info:8081/iqtv/envivo/playlist.m3u8",
