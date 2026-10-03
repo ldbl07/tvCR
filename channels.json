@@ -38,7 +38,7 @@
     },
     {
       "number": 5,
-      "name": "Teleuno",
+      "name": "TeleUno",
       "url": "http://181.119.210.234:4000/play/a06x/index.m3u8",
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/teleuno.png",
@@ -84,6 +84,15 @@
       "epgSource": "open"
     },
     {
+    "number": 10,
+    "name": "Cartoon Network",
+    "url": "http://181.119.210.234:4000/play/a01l/index.m3u8",
+    "category": "Infantiles",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+    {
       "number": 11,
       "name": "Repretel Canal 11",
       "url": "http://181.119.210.234:4000/play/a03b/index.m3u8",
@@ -93,6 +102,15 @@
       "epgSource": "iptv"
     },
     {
+    "number": 12,
+    "name": "Disney",
+    "url": "http://181.119.210.234:4000/play/a05k/index.m3u8",
+    "category": "Infantiles",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+    {
       "number": 13,
       "name": "Sinart Canal 13",
       "url": "http://181.119.210.234:4000/play/a00z/index.m3u8",
@@ -101,6 +119,15 @@
       "epgId": "Canal13.cr",
       "epgSource": "iptv"
     },
+    {
+    "number": 14,
+    "name": "Tooncast",
+    "url": "http://181.119.210.234:4000/play/a04c/index.m3u8",
+    "category": "Infantiles",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
     {
       "number": 15,
       "name": "FUTV CR",
@@ -219,6 +246,15 @@
       "epgSource": ""
     },
     {
+    "number": 32,
+    "name": "HTV",
+    "url": "http://181.119.210.234:4000/play/a03s/index.m3u8",
+    "category": "Entretenimiento",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+    {
       "number": 36,
       "name": "TRIVISION",
       "url": "http://181.119.210.234:4000/play/a078/index.m3u8",
@@ -237,13 +273,212 @@
       "epgSource": "open"
     },
     {
-      "number": 43,
+    "number": 43,
+    "name": "CNNE",
+    "url": "http://181.119.210.234:4000/play/a025/index.m3u8",
+    "category": "Noticias",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 44,
+    "name": "Antena 3",
+    "url": "http://181.119.210.234:4000/play/a00f/index.m3u8",
+    "category": "Internacionales",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 45,
+    "name": "TVE",
+    "url": "http://181.119.210.234:4000/play/a061/index.m3u8",
+    "category": "Internacionales",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+    {
+      "number": 46,
       "name": "Guatuso TV",
       "url": "https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8",
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/guatuso.png",
       "epgId": "",
       "epgSource": ""
-    }
+    },
+    {
+    "number": 49,
+    "name": "Animal Planet",
+    "url": "http://181.119.210.234:4000/play/a02g/index.m3u8",
+    "category": "Documentales",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  }, 
+    {
+    "number": 50,
+    "name": "Discovery Channel",
+    "url": "http://181.119.210.234:4000/play/a04i/index.m3u8",
+    "category": "Documentales",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 51,
+    "name": "Discovery Home & Health",
+    "url": "http://181.119.210.234:4000/play/a05n/index.m3u8",
+    "category": "Documentales",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 52,
+    "name": "Discovery Turbo",
+    "url": "http://181.119.210.234:4000/play/a05m/index.m3u8",
+    "category": "Documentales",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 53,
+    "name": "History Channel",
+    "url": "http://181.119.210.234:4000/play/a04k/index.m3u8",
+    "category": "Documentales",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 54,
+    "name": "H2",
+    "url": "http://181.119.210.234:4000/play/a03i/index.m3u8",
+    "category": "Documentales",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 55,
+    "name": "National Geographic",
+    "url": "http://181.119.210.234:4000/play/a01x/index.m3u8",
+    "category": "Documentales",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 56,
+    "name": "A&E",
+    "url": "http://181.119.210.234:4000/play/a04h/index.m3u8",
+    "category": "Internacionales",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 57,
+    "name": "AXN",
+    "url": "http://181.119.210.234:4000/play/a022/index.m3u8",
+    "category": "Películas y Series",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 58,
+    "name": "El Gourmet",
+    "url": "http://181.119.210.234:4000/play/a03j/index.m3u8",
+    "category": "Internacionales",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+    {
+    "number": 60,
+    "name": "CineCanal",
+    "url": "http://181.119.210.234:4000/play/a05z/index.m3u8",
+    "category": "Películas y Series",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 61,
+    "name": "CineMax",
+    "url": "http://181.119.210.234:4000/play/a05x/index.m3u8",
+    "category": "Películas y Series",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 62,
+    "name": "FX",
+    "url": "http://181.119.210.234:4000/play/a03f/index.m3u8",
+    "category": "Películas y Series",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 63,
+    "name": "Golden",
+    "url": "http://181.119.210.234:4000/play/a03t/index.m3u8",
+    "category": "Películas y Series",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 64,
+    "name": "HBO",
+    "url": "http://181.119.210.234:4000/play/a018/index.m3u8",
+    "category": "Películas y Series",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 65,
+    "name": "HBO2 HD",
+    "url": "http://181.119.210.234:4000/play/a019/index.m3u8",
+    "category": "Películas y Series",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 66,
+    "name": "SONY",
+    "url": "http://181.119.210.234:4000/play/a04s/index.m3u8",
+    "category": "Películas y Series",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 67,
+    "name": "SPACE",
+    "url": "http://181.119.210.234:4000/play/a064/index.m3u8",
+    "category": "Películas y Series",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  },
+  {
+    "number": 68,
+    "name": "WARNER",
+    "url": "http://181.119.210.234:4000/play/a04r/index.m3u8",
+    "category": "Películas y Series",
+    "logo": "",
+    "epgId": "",
+    "epgSource": ""
+  }, 
+
   ]
 }
