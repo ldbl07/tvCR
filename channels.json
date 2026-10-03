@@ -158,7 +158,7 @@
     {
       "number": 21,
       "name": "ESPN 3",
-      "url": "http://181.119.210.234:4000/play/a03m/index.m3u8",
+      "url": "http://181.119.210.234:4000/play/a069/index.m3u8",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn3.png",
       "epgId": "Canal ESPN 3 (Costa Rica).cr",
@@ -176,7 +176,7 @@
     {
       "number": 23,
       "name": "ESPN 5",
-      "url": "http://181.119.210.234:4000/play/a05r/index.m3u8",
+      "url": "http://181.119.210.234:4000/play/a065/index.m3u8",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn5.png",
       "epgId": "",
