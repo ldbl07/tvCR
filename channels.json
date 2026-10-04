@@ -55,16 +55,16 @@
       "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
     },
     {
-  "number": 7,
-  "name": "Teletica Canal 7",
-  "url": "http://181.119.210.234:4000/play/a02d/index.m3u8",
-  "category": "Nacionales",
-  "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/teletica7.png",
-  "epg": {
-    "id": "Canal 7 de Costa Rica (Teletica).cr",
-    "source": "https://www.open-epg.com/files/costarica1.xml"
-  }
-},
+      "number": 7,
+      "name": "Teletica Canal 7",
+      "url": "http://181.119.210.234:4000/play/a02d/index.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/teletica7.png",
+      "epg": {
+        "id": "Canal 7 de Costa Rica (Teletica).cr",
+        "source": "https://www.open-epg.com/files/costarica1.xml"
+      }
+    },
     {
       "number": 8,
       "name": "Multimedios",
@@ -84,14 +84,14 @@
       "epgSource": "https://www.open-epg.com/files/costarica1.xml"
     },
     {
-    "number": 10,
-    "name": "Cartoon Network",
-    "url": "http://181.119.210.234:4000/play/a01l/index.m3u8",
-    "category": "Infantiles",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
+      "number": 10,
+      "name": "Cartoon Network",
+      "url": "http://181.119.210.234:4000/play/a01l/index.m3u8",
+      "category": "Infantiles",
+      "logo": "",
+      "epgId": "Canal Cartoon Network (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
     {
       "number": 11,
       "name": "Repretel Canal 11",
@@ -102,14 +102,14 @@
       "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
     },
     {
-    "number": 12,
-    "name": "Disney",
-    "url": "http://181.119.210.234:4000/play/a05k/index.m3u8",
-    "category": "Infantiles",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
+      "number": 12,
+      "name": "Disney",
+      "url": "http://181.119.210.234:4000/play/a05k/index.m3u8",
+      "category": "Infantiles",
+      "logo": "",
+      "epgId": "Canal Disney Channel (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
     {
       "number": 13,
       "name": "Sinart Canal 13",
@@ -120,14 +120,14 @@
       "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
     },
     {
-    "number": 14,
-    "name": "Tooncast",
-    "url": "http://181.119.210.234:4000/play/a04c/index.m3u8",
-    "category": "Infantiles",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
+      "number": 14,
+      "name": "Tooncast",
+      "url": "http://181.119.210.234:4000/play/a04c/index.m3u8",
+      "category": "Infantiles",
+      "logo": "",
+      "epgId": "Tooncast.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
     {
       "number": 15,
       "name": "FUTV CR",
@@ -224,8 +224,8 @@
       "url": "http://186.33.1.71:8000/play/a0bx/index.m3u8",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/tudn.png",
-      "epgId": "",
-      "epgSource": ""
+      "epgId": "TUDN.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
     },
     {
       "number": 26,
@@ -255,14 +255,14 @@
       "epgSource": ""
     },
     {
-    "number": 32,
-    "name": "HTV",
-    "url": "http://181.119.210.234:4000/play/a03s/index.m3u8",
-    "category": "Entretenimiento",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
+      "number": 32,
+      "name": "HTV",
+      "url": "http://181.119.210.234:4000/play/a03s/index.m3u8",
+      "category": "Entretenimiento",
+      "logo": "",
+      "epgId": "HTV.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
     {
       "number": 36,
       "name": "TRIVISION",
@@ -282,32 +282,32 @@
       "epgSource": "https://www.open-epg.com/files/costarica1.xml"
     },
     {
-    "number": 43,
-    "name": "CNNE",
-    "url": "http://181.119.210.234:4000/play/a025/index.m3u8",
-    "category": "Noticias",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 44,
-    "name": "Antena 3",
-    "url": "http://181.119.210.234:4000/play/a00f/index.m3u8",
-    "category": "Internacionales",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 45,
-    "name": "TVE",
-    "url": "http://181.119.210.234:4000/play/a061/index.m3u8",
-    "category": "Internacionales",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
+      "number": 43,
+      "name": "CNNE",
+      "url": "http://181.119.210.234:4000/play/a025/index.m3u8",
+      "category": "Noticias",
+      "logo": "",
+      "epgId": "CNNInternacional.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 44,
+      "name": "Antena 3",
+      "url": "http://181.119.210.234:4000/play/a00f/index.m3u8",
+      "category": "Internacionales",
+      "logo": "",
+      "epgId": "Antena3.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 45,
+      "name": "TVE",
+      "url": "http://181.119.210.234:4000/play/a061/index.m3u8",
+      "category": "Internacionales",
+      "logo": "",
+      "epgId": "TVEInternacional.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
     {
       "number": 46,
       "name": "Guatuso TV",
@@ -318,175 +318,175 @@
       "epgSource": ""
     },
     {
-    "number": 49,
-    "name": "Animal Planet",
-    "url": "http://181.119.210.234:4000/play/a02g/index.m3u8",
-    "category": "Documentales",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  }, 
+      "number": 49,
+      "name": "Animal Planet",
+      "url": "http://181.119.210.234:4000/play/a02g/index.m3u8",
+      "category": "Documentales",
+      "logo": "",
+      "epgId": "Canal Animal Planet (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
     {
-    "number": 50,
-    "name": "Discovery Channel",
-    "url": "http://181.119.210.234:4000/play/a06e/index.m3u8",
-    "category": "Documentales",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 51,
-    "name": "Discovery Home & Health",
-    "url": "http://181.119.210.234:4000/play/a04y/index.m3u8",
-    "category": "Documentales",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 52,
-    "name": "Discovery Turbo",
-    "url": "http://181.119.210.234:4000/play/a05m/index.m3u8",
-    "category": "Documentales",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 53,
-    "name": "History Channel",
-    "url": "http://181.119.210.234:4000/play/a04k/index.m3u8",
-    "category": "Documentales",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 54,
-    "name": "H2",
-    "url": "http://181.119.210.234:4000/play/a03i/index.m3u8",
-    "category": "Documentales",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 55,
-    "name": "National Geographic",
-    "url": "http://181.119.210.234:4000/play/a01x/index.m3u8",
-    "category": "Documentales",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 56,
-    "name": "A&E",
-    "url": "http://181.119.210.234:4000/play/a04h/index.m3u8",
-    "category": "Internacionales",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 57,
-    "name": "AXN",
-    "url": "http://181.119.210.234:4000/play/a063/index.m3u8",
-    "category": "Películas y Series",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 58,
-    "name": "El Gourmet",
-    "url": "http://181.119.210.234:4000/play/a03j/index.m3u8",
-    "category": "Internacionales",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
+      "number": 50,
+      "name": "Discovery Channel",
+      "url": "http://181.119.210.234:4000/play/a06e/index.m3u8",
+      "category": "Documentales",
+      "logo": "",
+      "epgId": "Canal Discovery Channel (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
     {
-    "number": 60,
-    "name": "CineCanal",
-    "url": "http://181.119.210.234:4000/play/a05z/index.m3u8",
-    "category": "Películas y Series",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 61,
-    "name": "CineMax",
-    "url": "http://181.119.210.234:4000/play/a05x/index.m3u8",
-    "category": "Películas y Series",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 62,
-    "name": "FX",
-    "url": "http://181.119.210.234:4000/play/a03f/index.m3u8",
-    "category": "Películas y Series",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 63,
-    "name": "Golden",
-    "url": "http://181.119.210.234:4000/play/a03t/index.m3u8",
-    "category": "Películas y Series",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 64,
-    "name": "HBO",
-    "url": "http://181.119.210.234:4000/play/a018/index.m3u8",
-    "category": "Películas y Series",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 65,
-    "name": "HBO 2",
-    "url": "http://181.119.210.234:4000/play/a019/index.m3u8",
-    "category": "Películas y Series",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 66,
-    "name": "SONY",
-    "url": "http://181.119.210.234:4000/play/a04s/index.m3u8",
-    "category": "Películas y Series",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 67,
-    "name": "SPACE",
-    "url": "http://181.119.210.234:4000/play/a064/index.m3u8",
-    "category": "Películas y Series",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  },
-  {
-    "number": 68,
-    "name": "WARNER",
-    "url": "http://181.119.210.234:4000/play/a04r/index.m3u8",
-    "category": "Películas y Series",
-    "logo": "",
-    "epgId": "",
-    "epgSource": ""
-  }
+      "number": 51,
+      "name": "Discovery Home & Health",
+      "url": "http://181.119.210.234:4000/play/a04y/index.m3u8",
+      "category": "Documentales",
+      "logo": "",
+      "epgId": "Canal Discovery Home & Health (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
+    {
+      "number": 52,
+      "name": "Discovery Turbo",
+      "url": "http://181.119.210.234:4000/play/a05m/index.m3u8",
+      "category": "Documentales",
+      "logo": "",
+      "epgId": "DiscoveryTurbo.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 53,
+      "name": "History Channel",
+      "url": "http://181.119.210.234:4000/play/a04k/index.m3u8",
+      "category": "Documentales",
+      "logo": "",
+      "epgId": "Canal History (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
+    {
+      "number": 54,
+      "name": "H2",
+      "url": "http://181.119.210.234:4000/play/a03i/index.m3u8",
+      "category": "Documentales",
+      "logo": "",
+      "epgId": "Canal History 2 (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
+    {
+      "number": 55,
+      "name": "National Geographic",
+      "url": "http://181.119.210.234:4000/play/a01x/index.m3u8",
+      "category": "Documentales",
+      "logo": "",
+      "epgId": "Canal National Geographic (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
+    {
+      "number": 56,
+      "name": "A&E",
+      "url": "http://181.119.210.234:4000/play/a04h/index.m3u8",
+      "category": "Internacionales",
+      "logo": "",
+      "epgId": "Canal A&E (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
+    {
+      "number": 57,
+      "name": "AXN",
+      "url": "http://181.119.210.234:4000/play/a063/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "",
+      "epgId": "Canal AXN (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
+    {
+      "number": 58,
+      "name": "El Gourmet",
+      "url": "http://181.119.210.234:4000/play/a03j/index.m3u8",
+      "category": "Internacionales",
+      "logo": "",
+      "epgId": "Elgourmet.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 60,
+      "name": "CineCanal",
+      "url": "http://181.119.210.234:4000/play/a05z/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "",
+      "epgId": "Canal Cinecanal (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
+    {
+      "number": 61,
+      "name": "CineMax",
+      "url": "http://181.119.210.234:4000/play/a05x/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "",
+      "epgId": "Canal Cinemax (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
+    {
+      "number": 62,
+      "name": "FX",
+      "url": "http://181.119.210.234:4000/play/a03f/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "",
+      "epgId": "Canal FX (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
+    {
+      "number": 63,
+      "name": "Golden",
+      "url": "http://181.119.210.234:4000/play/a03t/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "",
+      "epgId": "Canal Golden (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
+    {
+      "number": 64,
+      "name": "HBO",
+      "url": "http://181.119.210.234:4000/play/a018/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "",
+      "epgId": "HBO.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 65,
+      "name": "HBO 2",
+      "url": "http://181.119.210.234:4000/play/a019/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "",
+      "epgId": "HBO2.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 66,
+      "name": "SONY",
+      "url": "http://181.119.210.234:4000/play/a04s/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "",
+      "epgId": "Canal Sony (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
+    {
+      "number": 67,
+      "name": "SPACE",
+      "url": "http://181.119.210.234:4000/play/a064/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "",
+      "epgId": "Canal Space (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
+    {
+      "number": 68,
+      "name": "WARNER",
+      "url": "http://181.119.210.234:4000/play/a04r/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "",
+      "epgId": "Canal Warner TV (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    }
   ]
 }
