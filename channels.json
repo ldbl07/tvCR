@@ -57,7 +57,7 @@
     {
       "number": 7,
       "name": "Teletica Canal 7",
-      "url": "http://181.119.210.234:4000/play/a02d/index.m3u8",
+      "url": "http://190.61.101.11:7050/play/a07t/index.m3u8",
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/teletica7.png",
       "epg": {
@@ -158,7 +158,7 @@
     {
       "number": 18,
       "name": "FOX CR",
-      "url": "http://181.119.210.234:4000/play/a04u/index.m3u8",
+      "url": "http://181.119.210.234:4000/play/a073/index.m3u8",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/fox1.png",
       "epgId": "TigoSport.cr",
