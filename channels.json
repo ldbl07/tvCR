@@ -34,7 +34,7 @@
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/Repretel4.png",
       "epgId": "Canal4.cr",
-      "epgSource": "iptv"
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
     },
     {
       "number": 5,
@@ -52,7 +52,7 @@
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/repretel6.png",
       "epgId": "Canal6.cr",
-      "epgSource": "iptv"
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
     },
     {
   "number": 7,
@@ -72,7 +72,7 @@
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/8.png",
       "epgId": "Canal8.cr",
-      "epgSource": "iptv"
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
     },
     {
       "number": 9,
@@ -99,7 +99,7 @@
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/Repretel11.png",
       "epgId": "Canal11.cr",
-      "epgSource": "iptv"
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
     },
     {
     "number": 12,
@@ -117,7 +117,7 @@
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/13.png",
       "epgId": "Canal13.cr",
-      "epgSource": "iptv"
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
     },
     {
     "number": 14,
@@ -135,7 +135,7 @@
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/futv.png",
       "epgId": "FUTV.cr",
-      "epgSource": "iptv"
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
     },
     {
       "number": 16,
@@ -162,7 +162,7 @@
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/fox1.png",
       "epgId": "TigoSport.cr",
-      "epgSource": "iptv"
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
     },
     {
       "number": 19,
