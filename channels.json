@@ -57,7 +57,7 @@
     {
       "number": 7,
       "name": "Teletica Canal 7",
-      "url": "http://190.61.101.11:7050/play/a07t/index.m3u8",
+      "url": "http://190.7.192.163:8014/play/s19",
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/teletica7.png",
       "epg": {
