@@ -81,7 +81,7 @@
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/opa.png",
       "epgId": "Canal 9 de Costa Rica.cr",
-      "epgSource": "open"
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
     },
     {
     "number": 10,
@@ -171,7 +171,7 @@
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn.png",
       "epgId": "Canal ESPN (Costa Rica).cr",
-      "epgSource": "open"
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
     },
     {
       "number": 20,
@@ -180,7 +180,7 @@
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn2.png",
       "epgId": "Canal ESPN 2 (Costa Rica).cr",
-      "epgSource": "open"
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
     },
     {
       "number": 21,
@@ -189,7 +189,7 @@
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn3.png",
       "epgId": "Canal ESPN 3 (Costa Rica).cr",
-      "epgSource": "open"
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
     },
     {
       "number": 22,
@@ -198,7 +198,7 @@
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn4.png",
       "epgId": "Canal ESPN 4 (Costa Rica).cr",
-      "epgSource": "open"
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
     },
     {
       "number": 23,
@@ -279,7 +279,7 @@
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/extratv42.png",
       "epgId": "Canal Extra TV 42 de Costa Rica.cr",
-      "epgSource": "open"
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
     },
     {
     "number": 43,
