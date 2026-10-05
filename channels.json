@@ -85,12 +85,12 @@
     },
     {
       "number": 10,
-      "name": "Cartoon Network",
-      "url": "http://181.119.210.234:4000/play/a017/index.m3u8",
-      "category": "Infantiles",
-      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/cartoon.png",
-      "epgId": "Canal Cartoon Network (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "name": "Telered",
+      "url": "https://streaming.tumm.tv/10303/notoken/hls/telered/playlist.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/telered.png",
+      "epgId": "",
+      "epgSource": ""
     },
     {
       "number": 11,
@@ -103,11 +103,11 @@
     },
     {
       "number": 12,
-      "name": "Disney",
-      "url": "http://181.119.210.234:4000/play/a05k/index.m3u8",
+      "name": "Cartoon Network",
+      "url": "http://181.119.210.234:4000/play/a017/index.m3u8",
       "category": "Infantiles",
-      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/disney.png",
-      "epgId": "Canal Disney Channel (Costa Rica).cr",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/cartoon.png",
+      "epgId": "Canal Cartoon Network (Costa Rica).cr",
       "epgSource": "https://www.open-epg.com/files/costarica1.xml"
     },
     {
