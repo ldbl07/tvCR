@@ -237,6 +237,15 @@
       "epgSource": ""
     },
     {
+      "number": 27,
+      "name": "TvC Sport",
+      "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/tyc.png",
+      "epgId": "TyCSports.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
       "number": 30,
       "name": "IQ Channel",
       "url": "http://rtmp.info:8081/iqtv/envivo/playlist.m3u8",
