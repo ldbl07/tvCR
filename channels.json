@@ -246,6 +246,15 @@
       "epgSource": ""
     },
     {
+      "number": 28,
+      "name": "Sky Sports La Liga",
+      "url": "http://200.35.176.154:8000/play/a067/index.m3u8cCI6IkpXVCJ9.eyJleHAiOjE3OTE1MDkxMzgsImlzcyI6ImFlZ2lzIn0.q3JvXef6ARi2vxQKFEO07-cy2HqCkId3cUytiUS39LHQtw_f1NEqr8sEVb461q9GUd5fAB9whSoaZOFsBz9MvA",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/sky1.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
       "number": 29,
       "name": "TvC Sport",
       "url": "https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8",
