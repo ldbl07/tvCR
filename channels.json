@@ -248,7 +248,7 @@
     {
       "number": 28,
       "name": "Sky Sports La Liga",
-      "url": "https://srregio.online/10326/redirect.php?canal=Sky%20Sports%20La%20Liga&key=srregio.net",
+      "url": "http://200.35.176.154:8000/play/a067/index.m3u8",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/sky1.png",
       "epgId": "",
