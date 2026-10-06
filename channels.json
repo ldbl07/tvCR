@@ -42,8 +42,8 @@
       "url": "http://181.119.210.234:4000/play/a06x/index.m3u8",
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/teleuno.png",
-      "epgId": "",
-      "epgSource": ""
+      "epgId": "TELE UNO",
+      "epgSource": "tvepg"
     },
     {
       "number": 6,
