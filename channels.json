@@ -197,8 +197,8 @@
       "url": "http://181.119.210.234:4000/play/a03n/index.m3u8",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn4.png",
-      "epgId": "Canal ESPN 4 (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.ESPN.4.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 23,
@@ -215,8 +215,8 @@
       "url": "http://181.119.210.234:4000/play/a01z/index.m3u8",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn6.png",
-      "epgId": "",
-      "epgSource": ""
+      "epgId": "Canal.ESPN.6.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 25,
