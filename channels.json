@@ -515,5 +515,14 @@
       "epgId": "Canal.Warner.TV.(Costa.Rica).cr",
       "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     }
+    {
+      "number": 101,
+      "name": "ESPN 2 HD",
+      "url": "http://181.119.210.234:4000/play/a068/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn2.png",
+      "epgId": "Canal.ESPN.2.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    }
   ]
 }
