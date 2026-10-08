@@ -229,24 +229,6 @@
     },
     {
       "number": 26,
-      "name": "Fox Deportes",
-      "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
-      "category": "Deportes",
-      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/foxd.png",
-      "epgId": "",
-      "epgSource": ""
-    },
-    {
-      "number": 27,
-      "name": "Fox Sports",
-      "url": "https://aegis.production-public.tubi.io/cdn/db55104b-0a4b-4ef7-b787-f2dfb5c2ce34/playlist.m3u8?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3OTE1MDkxMzgsImlzcyI6ImFlZ2lzIn0.q3JvXef6ARi2vxQKFEO07-cy2HqCkId3cUytiUS39LHQtw_f1NEqr8sEVb461q9GUd5fAB9whSoaZOFsBz9MvA",
-      "category": "Deportes",
-      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/foxsp1.png",
-      "epgId": "",
-      "epgSource": ""
-    },
-    {
-      "number": 28,
       "name": "Sky Sports La Liga",
       "url": "http://200.35.176.154:8000/play/a067/index.m3u8",
       "category": "Deportes",
@@ -255,7 +237,7 @@
       "epgSource": ""
     },
     {
-      "number": 29,
+      "number": 27,
       "name": "TvC Sport",
       "url": "http://38.44.109.41:8003/play/a02l/index.m3u8",
       "category": "Deportes",
