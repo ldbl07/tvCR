@@ -291,6 +291,15 @@
       "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
     },
     {
+      "number": 33,
+      "name": "XperTV",
+      "url": "https://s5stream.lamegatv.com/r/26cd253396f7e60d7dae/index.m3u8?md5=SGyKlhmxx937k2oz97xeDw&expires=1791534000",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/xpertv.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
       "number": 36,
       "name": "TRIVISION",
       "url": "http://181.119.210.234:4000/play/a078/index.m3u8",
