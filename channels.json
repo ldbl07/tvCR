@@ -107,8 +107,8 @@
       "url": "http://181.119.210.234:4000/play/a017/index.m3u8",
       "category": "Infantiles",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/cartoon.png",
-      "epgId": "Canal Cartoon Network (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.Cartoon.Network.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 13,
@@ -170,8 +170,8 @@
       "url": "http://181.119.210.234:4000/play/a04m/index.m3u8",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn.png",
-      "epgId": "Canal ESPN (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.ESPN.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 20,
@@ -179,8 +179,8 @@
       "url": "http://181.119.210.234:4000/play/a04n/index.m3u8",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn2.png",
-      "epgId": "Canal ESPN 2 (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.ESPN.2.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 21,
@@ -188,8 +188,8 @@
       "url": "http://181.119.210.234:4000/play/a069/index.m3u8",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn3.png",
-      "epgId": "Canal ESPN 3 (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.ESPN.3.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 22,
@@ -206,8 +206,8 @@
       "url": "http://181.119.210.234:4000/play/a065/index.m3u8",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn5.png",
-      "epgId": "",
-      "epgSource": ""
+      "epgId": "Canal.ESPN.5.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 24,
@@ -323,8 +323,8 @@
       "url": "http://181.119.210.234:4000/play/a010/index.m3u8",
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/extratv42.png",
-      "epgId": "Canal Extra TV 42 de Costa Rica.cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.Extra.TV.42.de.Costa.Rica.cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 43,
@@ -368,8 +368,8 @@
       "url": "http://181.119.210.234:4000/play/a02g/index.m3u8",
       "category": "Documentales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/animal.png",
-      "epgId": "Canal Animal Planet (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.Animal.Planet.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 50,
@@ -377,8 +377,8 @@
       "url": "http://181.119.210.234:4000/play/a06e/index.m3u8",
       "category": "Documentales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/discovery.png",
-      "epgId": "Canal Discovery Channel (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.Discovery.Channel.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 51,
@@ -386,8 +386,8 @@
       "url": "http://181.119.210.234:4000/play/a04y/index.m3u8",
       "category": "Documentales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/hyh.png",
-      "epgId": "Canal Discovery Home & Health (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.Discovery.Home.&.Health.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 52,
@@ -404,8 +404,8 @@
       "url": "http://181.119.210.234:4000/play/a04k/index.m3u8",
       "category": "Documentales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/history.png",
-      "epgId": "Canal History (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.History.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 54,
@@ -413,8 +413,8 @@
       "url": "http://45.167.2.101:8000/play/a0qf/index.m3u8",
       "category": "Documentales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/h2.png",
-      "epgId": "Canal History 2 (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.History.2.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 55,
@@ -422,8 +422,8 @@
       "url": "http://181.119.210.234:4000/play/a01x/index.m3u8",
       "category": "Documentales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/natgeo.png",
-      "epgId": "Canal National Geographic (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.National.Geographic.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 56,
@@ -431,8 +431,8 @@
       "url": "http://181.119.210.234:4000/play/a04h/index.m3u8",
       "category": "Internacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/ae.png",
-      "epgId": "Canal A&E (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.A&E.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 57,
@@ -440,8 +440,8 @@
       "url": "http://181.119.210.234:4000/play/a063/index.m3u8",
       "category": "Películas y Series",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/axn.png",
-      "epgId": "Canal AXN (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.AXN.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 58,
@@ -458,8 +458,8 @@
       "url": "http://181.119.210.234:4000/play/a05z/index.m3u8",
       "category": "Películas y Series",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/cinecanal.png",
-      "epgId": "Canal Cinecanal (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.Cinecanal.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 61,
@@ -467,8 +467,8 @@
       "url": "http://181.119.210.234:4000/play/a05x/index.m3u8",
       "category": "Películas y Series",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/cinemax.png",
-      "epgId": "Canal Cinemax (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.Cinemax.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 62,
@@ -476,8 +476,8 @@
       "url": "http://181.119.210.234:4000/play/a03f/index.m3u8",
       "category": "Películas y Series",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/fx.png",
-      "epgId": "Canal FX (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.FX.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 63,
@@ -485,8 +485,8 @@
       "url": "http://181.119.210.234:4000/play/a03t/index.m3u8",
       "category": "Películas y Series",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/golden.png",
-      "epgId": "Canal Golden (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.Golden.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 64,
@@ -512,8 +512,8 @@
       "url": "http://181.119.210.234:4000/play/a04s/index.m3u8",
       "category": "Películas y Series",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/sony.png",
-      "epgId": "Canal Sony (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.Sony.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 67,
@@ -521,8 +521,8 @@
       "url": "http://181.119.210.234:4000/play/a064/index.m3u8",
       "category": "Películas y Series",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/space.png",
-      "epgId": "Canal Space (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.Space.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     },
     {
       "number": 68,
@@ -530,8 +530,8 @@
       "url": "http://181.119.210.234:4000/play/a04r/index.m3u8",
       "category": "Películas y Series",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/wb.png",
-      "epgId": "Canal Warner TV (Costa Rica).cr",
-      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+      "epgId": "Canal.Warner.TV.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
     }
   ]
 }
