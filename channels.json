@@ -61,8 +61,8 @@
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/teletica7.png",
       "epg": {
-        "id": "Canal.7.de.Costa.Rica.(Teletica).cr",
-        "source": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+        "id": "Canal 7 de Costa Rica (Teletica).cr",
+        "source": "https://www.open-epg.com/files/costarica1.xml"
       }
     },
     {
