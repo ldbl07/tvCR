@@ -314,7 +314,7 @@
       "url": "http://181.119.210.234:4000/play/a025/index.m3u8",
       "category": "Noticias",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/cnn.png",
-      "epgId": "CNNInternacional.cr",
+      "epgId": "CNN.cr",
       "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
     },
     {
