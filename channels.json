@@ -284,7 +284,7 @@
     {
       "number": 33,
       "name": "XperTV",
-      "url": "https://stream.lamegatv.com/r/26cd253396f7e60d7dae/index.m3u8?md5=MhCAFPugcFB-09XDcsWcMw&expires=1791879600",
+      "url": "http://45.163.139.42:8000/play/a02x/index.m3u8",
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/xpertv.png",
       "epgId": "",
