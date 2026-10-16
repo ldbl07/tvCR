@@ -229,6 +229,15 @@
     },
     {
       "number": 26,
+      "name": "Fox Deportes",
+      "url": "http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/foxd.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
+      "number": 27,
       "name": "Sky Sports La Liga",
       "url": "http://190.61.101.11:7050/play/a04g/index.m3u8?hls",
       "category": "Deportes",
@@ -237,7 +246,7 @@
       "epgSource": ""
     },
     {
-      "number": 27,
+      "number": 28,
       "name": "TyC Sport",
       "url": "http://138.59.177.78:9999/play/a0g1/index.m3u8",
       "category": "Deportes",
@@ -246,7 +255,7 @@
       "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
     },
     {
-      "number": 28,
+      "number": 29,
       "name": "DAZN F1",
       "url": "http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8",
       "category": "Deportes",
