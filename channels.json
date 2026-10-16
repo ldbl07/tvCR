@@ -464,7 +464,7 @@
     {
       "number": 61,
       "name": "CineMax",
-      "url": "http://181.119.210.234:4000/play/a05x/index.m3u8",
+      "url": "http://138.59.177.78:9999/play/a0ki/index.m3u8",
       "category": "Películas y Series",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/cinemax.png",
       "epgId": "Canal.Cinemax.(Costa.Rica).cr",
