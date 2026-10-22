@@ -104,7 +104,7 @@
     {
       "number": 12,
       "name": "Cartoon Network",
-      "url": "http://181.224.255.210:8001/play/a0py/index.m3u8?hls",
+      "url": "http://190.108.83.69:8000/play/a08g/index.m3u8",
       "category": "Infantiles",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/cartoon.png",
       "epgId": "Canal.Cartoon.Network.(Costa.Rica).cr",
@@ -122,7 +122,7 @@
     {
       "number": 14,
       "name": "Tooncast",
-      "url": "http://181.224.255.210:8001/play/a0ou/index.m3u8?hls",
+      "url": "http://190.108.83.69:8000/play/a02e/index.m3u8",
       "category": "Infantiles",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/tooncast.png",
       "epgId": "Tooncast.cr",
@@ -329,7 +329,7 @@
     {
       "number": 43,
       "name": "CNNE",
-      "url": "http://181.119.210.234:4000/play/a025/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a023/index.m3u8",
       "category": "Noticias",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/cnn.png",
       "epgId": "CNN.cr",
@@ -338,7 +338,7 @@
     {
       "number": 44,
       "name": "Antena 3",
-      "url": "http://181.119.210.234:4000/play/a00f/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a01e/index.m3u8",
       "category": "Internacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/antena3.png",
       "epgId": "Antena3.cr",
@@ -347,7 +347,7 @@
     {
       "number": 45,
       "name": "TVE",
-      "url": "http://181.119.210.234:4000/play/a061/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a08m/index.m3u8",
       "category": "Internacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/tve.png",
       "epgId": "TVEInternacional.cr",
@@ -365,7 +365,7 @@
     {
       "number": 49,
       "name": "Animal Planet",
-      "url": "http://181.119.210.234:4000/play/a02g/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a043/index.m3u8",
       "category": "Documentales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/animal.png",
       "epgId": "Canal.Animal.Planet.(Costa.Rica).cr",
@@ -374,7 +374,7 @@
     {
       "number": 50,
       "name": "Discovery Channel",
-      "url": "http://181.119.210.234:4000/play/a06e/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a044/index.m3u8",
       "category": "Documentales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/discovery.png",
       "epgId": "Canal.Discovery.Channel.(Costa.Rica).cr",
@@ -383,7 +383,7 @@
     {
       "number": 51,
       "name": "Discovery Home & Health",
-      "url": "http://181.119.210.234:4000/play/a04y/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a08k/index.m3u8",
       "category": "Documentales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/hyh.png",
       "epgId": "Canal.Discovery.Home.&.Health.(Costa.Rica).cr",
@@ -392,7 +392,7 @@
     {
       "number": 52,
       "name": "Discovery Turbo",
-      "url": "http://181.119.210.234:4000/play/a05m/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a026/index.m3u8",
       "category": "Documentales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/turbo.png",
       "epgId": "DiscoveryTurbo.cr",
@@ -401,7 +401,7 @@
     {
       "number": 53,
       "name": "History Channel",
-      "url": "http://181.119.210.234:4000/play/a04k/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a045/index.m3u8",
       "category": "Documentales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/history.png",
       "epgId": "Canal.History.(Costa.Rica).cr",
@@ -409,8 +409,8 @@
     },
     {
       "number": 54,
-      "name": "H2",
-      "url": "http://138.59.177.78:9999/play/a0lz/index.m3u8",
+      "name": "History 2",
+      "url": "http://190.108.83.69:8000/play/a00j/index.m3u8",
       "category": "Documentales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/h2.png",
       "epgId": "Canal.History.2.(Costa.Rica).cr",
@@ -419,7 +419,7 @@
     {
       "number": 55,
       "name": "National Geographic",
-      "url": "http://181.119.210.234:4000/play/a01x/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a046/index.m3u8",
       "category": "Documentales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/natgeo.png",
       "epgId": "Canal.National.Geographic.(Costa.Rica).cr",
@@ -428,7 +428,7 @@
     {
       "number": 56,
       "name": "A&E",
-      "url": "http://181.119.210.234:4000/play/a04h/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a02y/index.m3u8",
       "category": "Internacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/ae.png",
       "epgId": "Canal.A&E.(Costa.Rica).cr",
@@ -437,7 +437,7 @@
     {
       "number": 57,
       "name": "AXN",
-      "url": "http://181.119.210.234:4000/play/a063/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a04c/index.m3u8",
       "category": "Películas y Series",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/axn.png",
       "epgId": "Canal.AXN.(Costa.Rica).cr",
@@ -446,7 +446,7 @@
     {
       "number": 58,
       "name": "El Gourmet",
-      "url": "http://181.119.210.234:4000/play/a03j/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a0d2/index.m3u8",
       "category": "Internacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/gourmet.png",
       "epgId": "Elgourmet.cr",
@@ -455,7 +455,7 @@
     {
       "number": 60,
       "name": "CineCanal",
-      "url": "http://181.119.210.234:4000/play/a05z/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a048/index.m3u8",
       "category": "Películas y Series",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/cinecanal.png",
       "epgId": "Canal.Cinecanal.(Costa.Rica).cr",
@@ -473,7 +473,7 @@
     {
       "number": 62,
       "name": "FX",
-      "url": "http://181.119.210.234:4000/play/a03f/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a04i/index.m3u8",
       "category": "Películas y Series",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/fx.png",
       "epgId": "Canal.FX.(Costa.Rica).cr",
@@ -482,7 +482,7 @@
     {
       "number": 63,
       "name": "Golden",
-      "url": "http://181.119.210.234:4000/play/a03t/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a00i/index.m3u8",
       "category": "Películas y Series",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/golden.png",
       "epgId": "Canal.Golden.(Costa.Rica).cr",
@@ -491,7 +491,7 @@
     {
       "number": 64,
       "name": "HBO",
-      "url": "http://181.119.210.234:4000/play/a018/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a035/index.m3u8",
       "category": "Películas y Series",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/hbo.png",
       "epgId": "HBO.cr",
@@ -500,7 +500,7 @@
     {
       "number": 65,
       "name": "HBO 2",
-      "url": "http://181.119.210.234:4000/play/a019/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a0cx/index.m3u8",
       "category": "Películas y Series",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/hbo2.png",
       "epgId": "HBO2.cr",
@@ -509,7 +509,7 @@
     {
       "number": 66,
       "name": "SONY",
-      "url": "http://181.119.210.234:4000/play/a04s/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a04a/index.m3u8",
       "category": "Películas y Series",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/sony.png",
       "epgId": "Canal.Sony.(Costa.Rica).cr",
@@ -518,7 +518,7 @@
     {
       "number": 67,
       "name": "SPACE",
-      "url": "http://181.119.210.234:4000/play/a064/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a04e/index.m3u8",
       "category": "Películas y Series",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/space.png",
       "epgId": "Canal.Space.(Costa.Rica).cr",
