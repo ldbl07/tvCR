@@ -113,7 +113,7 @@
     {
       "number": 13,
       "name": "Sinart Canal 13",
-      "url": "http://181.119.210.234:4000/play/a00z/index.m3u8",
+      "url": "http://138.59.177.78:9999/play/a0bf/index.m3u8",
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/13.png",
       "epgId": "Canal13.cr",
@@ -158,7 +158,7 @@
     {
       "number": 18,
       "name": "FOX CR",
-      "url": "http://181.119.210.234:4000/play/a073/index.m3u8",
+      "url": "http://138.59.177.78:9999/play/a0ee/index.m3u8",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/fox1.png",
       "epgId": "Canal Fox (Costa Rica).cr",
