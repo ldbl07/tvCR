@@ -1,0 +1,558 @@
+{
+  "channels": [
+    {
+      "number": 1,
+      "name": "Canal 1",
+      "url": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/canal1.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
+      "number": 2,
+      "name": "Canal 2 CDR",
+      "url": "https://streaming.tumm.tv/10303/notoken/hls/canal2/playlist.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/canal2_CDR.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
+      "number": 3,
+      "name": "Telefides",
+      "url": "https://5eac7b031d945.streamlock.net/TELEFIDES/TELEFIDES/chunklist_w2017729914.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/fides.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
+      "number": 4,
+      "name": "Repretel Canal 4",
+      "url": "http://181.119.210.234:4000/play/a04b/index.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/Repretel4.png",
+      "epgId": "Canal4.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 5,
+      "name": "TeleUno",
+      "url": "http://181.119.210.234:4000/play/a06x/index.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/teleuno.png",
+      "epgId": "TELE UNO",
+      "epgSource": "tvepg"
+    },
+    {
+      "number": 6,
+      "name": "Repretel Canal 6",
+      "url": "http://181.119.210.234:4000/play/a03a/index.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/repretel6.png",
+      "epgId": "Canal6.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 7,
+      "name": "Teletica Canal 7",
+      "url": "http://181.119.210.234:4000/play/a02d/index.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/teletica7.png",
+      "epg": {
+        "id": "Canal.7.de.Costa.Rica.(Teletica).cr",
+        "source": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+      }
+    },
+    {
+      "number": 8,
+      "name": "Multimedios",
+      "url": "http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/8.png",
+      "epgId": "Canal8.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 9,
+      "name": "OPA",
+      "url": "http://181.119.210.234:4000/play/a06w/index.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/opa.png",
+      "epgId": "Canal 9 de Costa Rica.cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
+    {
+      "number": 10,
+      "name": "Telered",
+      "url": "https://k20.usastreams.com:8081/telered/index.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/telered.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
+      "number": 11,
+      "name": "Repretel Canal 11",
+      "url": "http://181.119.210.234:4000/play/a03b/index.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/Repretel11.png",
+      "epgId": "Canal11.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 12,
+      "name": "Cartoon Network",
+      "url": "http://181.119.210.234:4000/play/a017/index.m3u8",
+      "category": "Infantiles",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/cartoon.png",
+      "epgId": "Canal.Cartoon.Network.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 13,
+      "name": "Sinart Canal 13",
+      "url": "http://181.119.210.234:4000/play/a00z/index.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/13.png",
+      "epgId": "Canal13.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 14,
+      "name": "Tooncast",
+      "url": "http://181.119.210.234:4000/play/a04c/index.m3u8",
+      "category": "Infantiles",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/tooncast.png",
+      "epgId": "Tooncast.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 15,
+      "name": "FUTV CR",
+      "url": "http://181.119.210.234:4000/play/a059/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/futv.png",
+      "epgId": "FUTV.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 16,
+      "name": "TD+",
+      "url": "http://181.119.210.234:4000/play/a00q/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/td%2B.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
+      "number": 17,
+      "name": "TD+2",
+      "url": "http://181.119.210.234:4000/play/a00r/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/td%2B2.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
+      "number": 18,
+      "name": "FOX CR",
+      "url": "http://181.119.210.234:4000/play/a073/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/fox1.png",
+      "epgId": "Canal Fox (Costa Rica).cr",
+      "epgSource": "https://www.open-epg.com/files/costarica1.xml"
+    },
+    {
+      "number": 19,
+      "name": "ESPN",
+      "url": "http://181.119.210.234:4000/play/a04m/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn.png",
+      "epgId": "Canal.ESPN.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 20,
+      "name": "ESPN 2",
+      "url": "http://181.119.210.234:4000/play/a04n/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn2.png",
+      "epgId": "Canal.ESPN.2.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 21,
+      "name": "ESPN 3",
+      "url": "http://181.119.210.234:4000/play/a069/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn3.png",
+      "epgId": "Canal.ESPN.3.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 22,
+      "name": "ESPN 4",
+      "url": "http://181.119.210.234:4000/play/a03n/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn4.png",
+      "epgId": "Canal.ESPN.4.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 23,
+      "name": "ESPN 5",
+      "url": "http://181.119.210.234:4000/play/a065/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn5.png",
+      "epgId": "Canal.ESPN.5.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 24,
+      "name": "ESPN 6",
+      "url": "http://181.119.210.234:4000/play/a01z/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn6.png",
+      "epgId": "Canal.ESPN.6.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 25,
+      "name": "TUDN",
+      "url": "http://186.33.1.71:8000/play/a0bx/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/tudn.png",
+      "epgId": "TUDN.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 26,
+      "name": "Fox Sports",
+      "url": "http://138.59.177.78:9999/play/a080/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/foxs.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
+      "number": 27,
+      "name": "Sky Sports La Liga",
+      "url": "http://190.61.101.11:7050/play/a04g/index.m3u8?hls",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/sky1.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
+      "number": 28,
+      "name": "TyC Sport",
+      "url": "http://138.59.177.78:9999/play/a0g1/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/tyc.png",
+      "epgId": "TyCSports.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 29,
+      "name": "DAZN F1",
+      "url": "http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/daznf1.png",
+      "epgId": "",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 30,
+      "name": "IQ Channel",
+      "url": "http://rtmp.info:8081/iqtv/envivo/playlist.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/iq.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
+      "number": 31,
+      "name": "VM Latino",
+      "url": "http://k4.usastreams.com/vmtv/vmlatino/playlist.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/vm.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
+      "number": 32,
+      "name": "HTV",
+      "url": "http://181.119.210.234:4000/play/a03s/index.m3u8",
+      "category": "Entretenimiento",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/htv.png",
+      "epgId": "HTV.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 33,
+      "name": "XperTV",
+      "url": "http://45.163.139.42:8000/play/a02x/index.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/xpertv.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
+      "number": 36,
+      "name": "TRIVISION",
+      "url": "http://181.119.210.234:4000/play/a078/index.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/Trivision36.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
+      "number": 37,
+      "name": "Las Estrellas",
+      "url": "http://38.65.175.25:8000/play/a0o0/index.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/estre.png",
+      "epgId": "LasEstrellas.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 42,
+      "name": "Extra TV 42",
+      "url": "http://181.119.210.234:4000/play/a010/index.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/extratv42.png",
+      "epgId": "Canal.Extra.TV.42.de.Costa.Rica.cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 43,
+      "name": "CNNE",
+      "url": "http://181.119.210.234:4000/play/a025/index.m3u8",
+      "category": "Noticias",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/cnn.png",
+      "epgId": "CNN.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 44,
+      "name": "Antena 3",
+      "url": "http://181.119.210.234:4000/play/a00f/index.m3u8",
+      "category": "Internacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/antena3.png",
+      "epgId": "Antena3.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 45,
+      "name": "TVE",
+      "url": "http://181.119.210.234:4000/play/a061/index.m3u8",
+      "category": "Internacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/tve.png",
+      "epgId": "TVEInternacional.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 46,
+      "name": "Guatuso TV",
+      "url": "https://5cf4a2c2512a2.streamlock.net/8176/8176/playlist.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/guatuso.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
+      "number": 49,
+      "name": "Animal Planet",
+      "url": "http://181.119.210.234:4000/play/a02g/index.m3u8",
+      "category": "Documentales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/animal.png",
+      "epgId": "Canal.Animal.Planet.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 50,
+      "name": "Discovery Channel",
+      "url": "http://181.119.210.234:4000/play/a06e/index.m3u8",
+      "category": "Documentales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/discovery.png",
+      "epgId": "Canal.Discovery.Channel.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 51,
+      "name": "Discovery Home & Health",
+      "url": "http://181.119.210.234:4000/play/a04y/index.m3u8",
+      "category": "Documentales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/hyh.png",
+      "epgId": "Canal.Discovery.Home.&.Health.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 52,
+      "name": "Discovery Turbo",
+      "url": "http://181.119.210.234:4000/play/a05m/index.m3u8",
+      "category": "Documentales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/turbo.png",
+      "epgId": "DiscoveryTurbo.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 53,
+      "name": "History Channel",
+      "url": "http://181.119.210.234:4000/play/a04k/index.m3u8",
+      "category": "Documentales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/history.png",
+      "epgId": "Canal.History.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 54,
+      "name": "H2",
+      "url": "http://138.59.177.78:9999/play/a0lz/index.m3u8",
+      "category": "Documentales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/h2.png",
+      "epgId": "Canal.History.2.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 55,
+      "name": "National Geographic",
+      "url": "http://181.119.210.234:4000/play/a01x/index.m3u8",
+      "category": "Documentales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/natgeo.png",
+      "epgId": "Canal.National.Geographic.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 56,
+      "name": "A&E",
+      "url": "http://181.119.210.234:4000/play/a04h/index.m3u8",
+      "category": "Internacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/ae.png",
+      "epgId": "Canal.A&E.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 57,
+      "name": "AXN",
+      "url": "http://181.119.210.234:4000/play/a063/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/axn.png",
+      "epgId": "Canal.AXN.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 58,
+      "name": "El Gourmet",
+      "url": "http://181.119.210.234:4000/play/a03j/index.m3u8",
+      "category": "Internacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/gourmet.png",
+      "epgId": "Elgourmet.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 60,
+      "name": "CineCanal",
+      "url": "http://181.119.210.234:4000/play/a05z/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/cinecanal.png",
+      "epgId": "Canal.Cinecanal.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 61,
+      "name": "CineMax",
+      "url": "http://138.59.177.78:9999/play/a0ki/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/cinemax.png",
+      "epgId": "Canal.Cinemax.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 62,
+      "name": "FX",
+      "url": "http://181.119.210.234:4000/play/a03f/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/fx.png",
+      "epgId": "Canal.FX.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 63,
+      "name": "Golden",
+      "url": "http://181.119.210.234:4000/play/a03t/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/golden.png",
+      "epgId": "Canal.Golden.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 64,
+      "name": "HBO",
+      "url": "http://181.119.210.234:4000/play/a018/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/hbo.png",
+      "epgId": "HBO.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 65,
+      "name": "HBO 2",
+      "url": "http://181.119.210.234:4000/play/a019/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/hbo2.png",
+      "epgId": "HBO2.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 66,
+      "name": "SONY",
+      "url": "http://181.119.210.234:4000/play/a04s/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/sony.png",
+      "epgId": "Canal.Sony.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 67,
+      "name": "SPACE",
+      "url": "http://181.119.210.234:4000/play/a064/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/space.png",
+      "epgId": "Canal.Space.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "number": 68,
+      "name": "WARNER",
+      "url": "http://38.134.250.110:8000/play/a029/index.m3u8",
+      "category": "Películas y Series",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/wb.png",
+      "epgId": "Canal.Warner.TV.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+     {
+      "number": 77,
+      "name": "Canal 7 720p",
+      "url": "http://190.61.101.11:7050/play/a07t/index.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/teletica7.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+
+
+    
+    {
+      "number": 101,
+      "name": "ESPN 2 HD",
+      "url": "http://181.119.210.234:4000/play/a068/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/espn2.png",
+      "epgId": "Canal.ESPN.2.(Costa.Rica).cr",
+      "epgSource": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    }
+  ]
+}
