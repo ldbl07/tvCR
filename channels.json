@@ -320,7 +320,7 @@
     {
       "number": 42,
       "name": "Extra TV 42",
-      "url": "http://181.119.210.234:4000/play/a010/index.m3u8",
+      "url": "http://138.59.177.78:9999/play/a0bg/index.m3u8",
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/extratv42.png",
       "epgId": "Canal.Extra.TV.42.de.Costa.Rica.cr",
