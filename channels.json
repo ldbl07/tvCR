@@ -30,7 +30,7 @@
     {
       "number": 4,
       "name": "Repretel Canal 4",
-      "url": "http://181.119.210.234:4000/play/a04b/index.m3u8",
+      "url": "http://45.186.106.207:8000/play/a09t/index.m3u8",
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/Repretel4.png",
       "epgId": "Canal4.cr",
@@ -140,7 +140,7 @@
     {
       "number": 16,
       "name": "TD+",
-      "url": "http://181.119.210.234:4000/play/a00q/index.m3u8",
+      "url": "http://45.186.106.207:8000/play/a06r/index.m3u8",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/td%2B.png",
       "epgId": "",
@@ -149,7 +149,7 @@
     {
       "number": 17,
       "name": "TD+2",
-      "url": "http://181.119.210.234:4000/play/a00r/index.m3u8",
+      "url": "http://45.186.106.207:8000/play/a06s/index.m3u8",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/td%2B2.png",
       "epgId": "",
