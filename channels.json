@@ -284,7 +284,7 @@
     {
       "number": 32,
       "name": "HTV",
-      "url": "http://181.119.210.234:4000/play/a03s/index.m3u8",
+      "url": "http://190.108.83.69:8000/play/a00q/index.m3u8",
       "category": "Entretenimiento",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/htv.png",
       "epgId": "HTV.cr",
