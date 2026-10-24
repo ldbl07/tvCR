@@ -3,7 +3,7 @@
     {
       "number": 1,
       "name": "Canal 1",
-      "url": "https://vid.canal1cr.com:3424/multi_live/play_720.m3u8",
+      "url": "https://stream.lamegatv.com/track/MEGATV0033.m3u8",
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/canal1.png",
       "epgId": "",
