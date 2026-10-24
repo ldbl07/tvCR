@@ -302,7 +302,7 @@
     {
       "number": 36,
       "name": "TRIVISION",
-      "url": "http://181.119.210.234:4000/play/a078/index.m3u8",
+      "url": "https://rtmp.info/trivision/trivision.stream/playlist.m3u8",
       "category": "Nacionales",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/Trivision36.png",
       "epgId": "",
