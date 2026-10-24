@@ -265,29 +265,29 @@
     },
     {
       "number": 30,
-      "name": "IQ Channel",
+      "name": "DSports",
       "url": "http://rtmp.info:8081/iqtv/envivo/playlist.m3u8",
-      "category": "Nacionales",
-      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/iq.png",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/ds1.png",
       "epgId": "",
       "epgSource": ""
     },
     {
       "number": 31,
-      "name": "VM Latino",
-      "url": "http://k4.usastreams.com/vmtv/vmlatino/playlist.m3u8",
-      "category": "Nacionales",
-      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/vm.png",
+      "name": "DSports2",
+      "url": "http://45.134.141.161:2200/ARG/DTV_SP2/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/ds2.png",
       "epgId": "",
       "epgSource": ""
     },
     {
       "number": 32,
-      "name": "HTV",
-      "url": "http://190.108.83.69:8000/play/a00q/index.m3u8",
-      "category": "Entretenimiento",
-      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/htv.png",
-      "epgId": "HTV.cr",
+      "name": "DSports+",
+      "url": "http://195.178.110.110/dsportsplus/index.m3u8",
+      "category": "Deportes",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/ds+.png",
+      "epgId": "",
       "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
     },
     {
@@ -298,6 +298,33 @@
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/xpertv.png",
       "epgId": "",
       "epgSource": ""
+    },
+    {
+      "number": 34,
+      "name": "IQ Channel",
+      "url": "http://rtmp.info:8081/iqtv/envivo/playlist.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/iq.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
+      "number": 35,
+      "name": "VM Latino",
+      "url": "http://k4.usastreams.com/vmtv/vmlatino/playlist.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/vm.png",
+      "epgId": "",
+      "epgSource": ""
+    },
+    {
+      "number": 38,
+      "name": "HTV",
+      "url": "http://190.108.83.69:8000/play/a00q/index.m3u8",
+      "category": "Entretenimiento",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/htv.png",
+      "epgId": "HTV.cr",
+      "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
     },
     {
       "number": 36,
