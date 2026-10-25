@@ -284,7 +284,7 @@
     {
       "number": 32,
       "name": "DSports+",
-      "url": "http://195.178.110.110/dsportsplus/index.m3u8",
+      "url": "http://hispasat71w.duckdns.org:8888/149/index.m3u8?token=ott",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/ds+.png",
       "epgId": "",
