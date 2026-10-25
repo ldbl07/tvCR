@@ -266,7 +266,7 @@
     {
       "number": 30,
       "name": "DSports",
-      "url": "http://rtmp.info:8081/iqtv/envivo/playlist.m3u8",
+      "url": "http://hispasat71w.duckdns.org:8888/49/index.m3u8?token=ott",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/ds1.png",
       "epgId": "",
