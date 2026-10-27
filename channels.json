@@ -230,7 +230,7 @@
     {
       "number": 26,
       "name": "Fox Sports",
-      "url": "http://138.59.177.78:9999/play/a080/index.m3u8",
+      "url": "http://hispasat71w.duckdns.org:8888/37/index.m3u8?token=ott",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/foxs.png",
       "epgId": "",
@@ -248,7 +248,7 @@
     {
       "number": 28,
       "name": "TyC Sport",
-      "url": "http://138.59.177.78:9999/play/a0g1/index.m3u8",
+      "url": "http://hispasat71w.duckdns.org:8888/98/index.m3u8?token=ott",
       "category": "Deportes",
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/tyc.png",
       "epgId": "TyCSports.cr",
