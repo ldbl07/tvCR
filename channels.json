@@ -318,7 +318,7 @@
       "epgSource": ""
     },
     {
-      "number": 38,
+      "number": 39,
       "name": "HTV",
       "url": "http://190.108.83.69:8000/play/a00q/index.m3u8",
       "category": "Entretenimiento",
@@ -343,6 +343,15 @@
       "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/estre.png",
       "epgId": "LasEstrellas.cr",
       "epgSource": "https://iptv-epg.org/files/epg-cr.xml"
+    },
+    {
+      "number": 38,
+      "name": "UNIVISION",
+      "url": "http://190.60.48.150:8000/play/univision/index.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/Trivision36.png",
+      "epgId": "",
+      "epgSource": ""
     },
     {
       "number": 42,
