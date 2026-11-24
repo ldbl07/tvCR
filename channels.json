@@ -66,6 +66,17 @@
       }
     },
     {
+      "number": 7.2,
+      "name": "Teletica Radio",
+      "url": "https://stream.lamegatv.com/track/MEGATV0060.m3u8",
+      "category": "Nacionales",
+      "logo": "https://raw.githubusercontent.com/ldbl07/tvCR/main/logos/teleticaradio.png",
+      "epg": {
+        "id": "Canal.7.de.Costa.Rica.(Teletica).cr",
+        "source": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+      }
+    },
+    {
       "number": 8,
       "name": "Multimedios",
       "url": "http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8",
